@@ -36,3 +36,16 @@ python/
 powerbi/
 
 README.md
+## Project Workflow
+
+Raw Data
+↓
+SQL Data Cleaning
+↓
+SQL Business Analysis
+↓
+Python EDA
+↓
+Power BI Dashboard
+↓
+Business Insights
