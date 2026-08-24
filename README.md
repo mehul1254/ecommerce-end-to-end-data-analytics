@@ -1,18 +1,8 @@
 # Ecommerce End-to-End Data Analytics Project
 
-## Tools Used
-- SQL
-- Python
-- Power BI
-- GitHub
+## Overview
 
-## Project Workflow
-
-Raw Data
-→ SQL Analysis
-→ Python EDA
-→ Power BI Dashboard
-→ Business Insights
+This project demonstrates a complete data analytics workflow using SQL, Python, and Power BI.
 
 ## Dataset
 
@@ -21,9 +11,36 @@ Raw Data
 - Products
 - Order Items
 
-## Goals
+## Project Structure
 
-- Analyze sales performance
-- Identify top customers
-- Find top selling products
-- Create interactive dashboard
+data/
+├── raw/
+├── cleaned/
+
+sql/
+├── create_tables.sql
+├── business_analysis.sql
+
+python/
+├── eda.py
+
+powerbi/
+
+## SQL Analysis
+
+- Total Sales
+- Total Orders
+- Top Products
+- Top Customers
+
+## Python Analysis
+
+- Dataset Summary
+- Sales Analysis
+- Product Performance
+
+## Future Improvements
+
+- Power BI Dashboard
+- Advanced KPI Tracking
+- Customer Segmentation
