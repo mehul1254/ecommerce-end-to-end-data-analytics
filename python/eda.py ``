@@ -1,0 +1,11 @@
+import pandas as pd
+
+customers = pd.read_csv("data/raw/customers.csv")
+orders = pd.read_csv("data/raw/orders.csv")
+products = pd.read_csv("data/raw/products.csv")
+order_items = pd.read_csv("data/raw/order_items.csv")
+
+print(customers.shape)
+print(orders.shape)
+print(products.shape)
+print(order_items.shape)
