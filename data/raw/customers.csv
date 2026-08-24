@@ -1,0 +1,201 @@
+customer_id,customer_name,city,state
+1,Customer_1,Chennai,Delhi
+2,Customer_2,Delhi,Karnataka
+3,Customer_3,Mumbai,Maharashtra
+4,Customer_4,Mumbai,Delhi
+5,Customer_5,Chennai,Tamil Nadu
+6,Customer_6,Delhi,Tamil Nadu
+7,Customer_7,Hyderabad,Delhi
+8,Customer_8,Delhi,Delhi
+9,Customer_9,Mumbai,Maharashtra
+10,Customer_10,Pune,Tamil Nadu
+11,Customer_11,Delhi,Tamil Nadu
+12,Customer_12,Mumbai,Tamil Nadu
+13,Customer_13,Hyderabad,Maharashtra
+14,Customer_14,Hyderabad,Tamil Nadu
+15,Customer_15,Bangalore,Delhi
+16,Customer_16,Mumbai,Telangana
+17,Customer_17,Bangalore,Karnataka
+18,Customer_18,Mumbai,Maharashtra
+19,Customer_19,Bangalore,Delhi
+20,Customer_20,Delhi,Telangana
+21,Customer_21,Delhi,Karnataka
+22,Customer_22,Bangalore,Tamil Nadu
+23,Customer_23,Bangalore,Delhi
+24,Customer_24,Chennai,Telangana
+25,Customer_25,Pune,Delhi
+26,Customer_26,Hyderabad,Delhi
+27,Customer_27,Pune,Karnataka
+28,Customer_28,Chennai,Tamil Nadu
+29,Customer_29,Bangalore,Tamil Nadu
+30,Customer_30,Mumbai,Delhi
+31,Customer_31,Delhi,Maharashtra
+32,Customer_32,Bangalore,Delhi
+33,Customer_33,Mumbai,Delhi
+34,Customer_34,Hyderabad,Karnataka
+35,Customer_35,Hyderabad,Karnataka
+36,Customer_36,Mumbai,Karnataka
+37,Customer_37,Bangalore,Maharashtra
+38,Customer_38,Chennai,Karnataka
+39,Customer_39,Chennai,Delhi
+40,Customer_40,Pune,Maharashtra
+41,Customer_41,Pune,Maharashtra
+42,Customer_42,Mumbai,Telangana
+43,Customer_43,Hyderabad,Karnataka
+44,Customer_44,Chennai,Tamil Nadu
+45,Customer_45,Mumbai,Karnataka
+46,Customer_46,Delhi,Maharashtra
+47,Customer_47,Delhi,Karnataka
+48,Customer_48,Hyderabad,Karnataka
+49,Customer_49,Delhi,Maharashtra
+50,Customer_50,Pune,Karnataka
+51,Customer_51,Mumbai,Telangana
+52,Customer_52,Hyderabad,Telangana
+53,Customer_53,Mumbai,Karnataka
+54,Customer_54,Mumbai,Maharashtra
+55,Customer_55,Chennai,Tamil Nadu
+56,Customer_56,Pune,Karnataka
+57,Customer_57,Chennai,Tamil Nadu
+58,Customer_58,Hyderabad,Tamil Nadu
+59,Customer_59,Hyderabad,Karnataka
+60,Customer_60,Mumbai,Maharashtra
+61,Customer_61,Pune,Telangana
+62,Customer_62,Delhi,Delhi
+63,Customer_63,Delhi,Maharashtra
+64,Customer_64,Chennai,Maharashtra
+65,Customer_65,Chennai,Telangana
+66,Customer_66,Pune,Delhi
+67,Customer_67,Hyderabad,Telangana
+68,Customer_68,Pune,Telangana
+69,Customer_69,Pune,Karnataka
+70,Customer_70,Pune,Delhi
+71,Customer_71,Chennai,Delhi
+72,Customer_72,Chennai,Tamil Nadu
+73,Customer_73,Bangalore,Karnataka
+74,Customer_74,Delhi,Karnataka
+75,Customer_75,Hyderabad,Maharashtra
+76,Customer_76,Hyderabad,Delhi
+77,Customer_77,Chennai,Karnataka
+78,Customer_78,Pune,Maharashtra
+79,Customer_79,Pune,Delhi
+80,Customer_80,Chennai,Karnataka
+81,Customer_81,Chennai,Tamil Nadu
+82,Customer_82,Pune,Maharashtra
+83,Customer_83,Mumbai,Karnataka
+84,Customer_84,Mumbai,Tamil Nadu
+85,Customer_85,Pune,Delhi
+86,Customer_86,Pune,Karnataka
+87,Customer_87,Hyderabad,Delhi
+88,Customer_88,Delhi,Karnataka
+89,Customer_89,Bangalore,Maharashtra
+90,Customer_90,Delhi,Maharashtra
+91,Customer_91,Pune,Delhi
+92,Customer_92,Delhi,Telangana
+93,Customer_93,Delhi,Tamil Nadu
+94,Customer_94,Mumbai,Maharashtra
+95,Customer_95,Chennai,Telangana
+96,Customer_96,Pune,Maharashtra
+97,Customer_97,Bangalore,Tamil Nadu
+98,Customer_98,Pune,Telangana
+99,Customer_99,Mumbai,Tamil Nadu
+100,Customer_100,Chennai,Maharashtra
+101,Customer_101,Chennai,Karnataka
+102,Customer_102,Hyderabad,Karnataka
+103,Customer_103,Hyderabad,Tamil Nadu
+104,Customer_104,Hyderabad,Delhi
+105,Customer_105,Mumbai,Maharashtra
+106,Customer_106,Delhi,Karnataka
+107,Customer_107,Delhi,Tamil Nadu
+108,Customer_108,Pune,Maharashtra
+109,Customer_109,Pune,Maharashtra
+110,Customer_110,Delhi,Delhi
+111,Customer_111,Chennai,Delhi
+112,Customer_112,Mumbai,Delhi
+113,Customer_113,Delhi,Karnataka
+114,Customer_114,Delhi,Tamil Nadu
+115,Customer_115,Mumbai,Karnataka
+116,Customer_116,Chennai,Telangana
+117,Customer_117,Mumbai,Tamil Nadu
+118,Customer_118,Mumbai,Tamil Nadu
+119,Customer_119,Pune,Telangana
+120,Customer_120,Mumbai,Telangana
+121,Customer_121,Hyderabad,Maharashtra
+122,Customer_122,Delhi,Delhi
+123,Customer_123,Chennai,Telangana
+124,Customer_124,Bangalore,Telangana
+125,Customer_125,Hyderabad,Telangana
+126,Customer_126,Chennai,Delhi
+127,Customer_127,Chennai,Delhi
+128,Customer_128,Delhi,Telangana
+129,Customer_129,Chennai,Karnataka
+130,Customer_130,Delhi,Maharashtra
+131,Customer_131,Mumbai,Maharashtra
+132,Customer_132,Pune,Telangana
+133,Customer_133,Mumbai,Telangana
+134,Customer_134,Mumbai,Karnataka
+135,Customer_135,Hyderabad,Maharashtra
+136,Customer_136,Delhi,Telangana
+137,Customer_137,Pune,Delhi
+138,Customer_138,Delhi,Tamil Nadu
+139,Customer_139,Delhi,Delhi
+140,Customer_140,Mumbai,Maharashtra
+141,Customer_141,Hyderabad,Telangana
+142,Customer_142,Hyderabad,Maharashtra
+143,Customer_143,Hyderabad,Delhi
+144,Customer_144,Mumbai,Telangana
+145,Customer_145,Delhi,Telangana
+146,Customer_146,Bangalore,Telangana
+147,Customer_147,Bangalore,Telangana
+148,Customer_148,Chennai,Tamil Nadu
+149,Customer_149,Chennai,Telangana
+150,Customer_150,Mumbai,Maharashtra
+151,Customer_151,Bangalore,Maharashtra
+152,Customer_152,Delhi,Tamil Nadu
+153,Customer_153,Chennai,Tamil Nadu
+154,Customer_154,Delhi,Karnataka
+155,Customer_155,Delhi,Delhi
+156,Customer_156,Pune,Telangana
+157,Customer_157,Pune,Tamil Nadu
+158,Customer_158,Mumbai,Delhi
+159,Customer_159,Pune,Delhi
+160,Customer_160,Mumbai,Delhi
+161,Customer_161,Pune,Delhi
+162,Customer_162,Chennai,Maharashtra
+163,Customer_163,Hyderabad,Delhi
+164,Customer_164,Pune,Maharashtra
+165,Customer_165,Pune,Tamil Nadu
+166,Customer_166,Delhi,Tamil Nadu
+167,Customer_167,Delhi,Telangana
+168,Customer_168,Chennai,Tamil Nadu
+169,Customer_169,Pune,Tamil Nadu
+170,Customer_170,Bangalore,Karnataka
+171,Customer_171,Mumbai,Karnataka
+172,Customer_172,Mumbai,Karnataka
+173,Customer_173,Hyderabad,Maharashtra
+174,Customer_174,Chennai,Karnataka
+175,Customer_175,Hyderabad,Karnataka
+176,Customer_176,Delhi,Delhi
+177,Customer_177,Hyderabad,Tamil Nadu
+178,Customer_178,Pune,Delhi
+179,Customer_179,Delhi,Tamil Nadu
+180,Customer_180,Mumbai,Tamil Nadu
+181,Customer_181,Bangalore,Maharashtra
+182,Customer_182,Bangalore,Delhi
+183,Customer_183,Mumbai,Karnataka
+184,Customer_184,Bangalore,Maharashtra
+185,Customer_185,Hyderabad,Tamil Nadu
+186,Customer_186,Chennai,Karnataka
+187,Customer_187,Pune,Tamil Nadu
+188,Customer_188,Delhi,Tamil Nadu
+189,Customer_189,Bangalore,Delhi
+190,Customer_190,Mumbai,Karnataka
+191,Customer_191,Delhi,Delhi
+192,Customer_192,Chennai,Tamil Nadu
+193,Customer_193,Mumbai,Karnataka
+194,Customer_194,Bangalore,Tamil Nadu
+195,Customer_195,Mumbai,Karnataka
+196,Customer_196,Mumbai,Karnataka
+197,Customer_197,Pune,Telangana
+198,Customer_198,Bangalore,Delhi
+199,Customer_199,Delhi,Telangana
+200,Customer_200,Bangalore,Delhi
