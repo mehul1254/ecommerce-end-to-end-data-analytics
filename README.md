@@ -49,3 +49,10 @@ Python EDA
 Power BI Dashboard
 ↓
 Business Insights
+## Key Results
+
+- Analyzed e-commerce sales data using SQL and Python.
+- Created KPI metrics for revenue and order analysis.
+- Performed data cleaning and validation checks.
+- Identified top customers and top-performing products.
+- Designed a scalable workflow for future Power BI dashboard integration.
